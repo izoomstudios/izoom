@@ -1,0 +1,110 @@
+
+{
+    "items":[ {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/BridePortrait/1.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/BridePortrait/2.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/BridePortrait/3.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/BridePortrait/4.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/BridePortrait/5.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/BridePortrait/6.jpg"
+    }
+     ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/BridePortrait/7.JPG"
+    }
+     ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/BridePortrait/8.JPG"
+    }
+     ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/BridePortrait/9.JPG"
+    },
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/BridePortrait/10.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/BridePortrait/11.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/BridePortrait/12.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/BridePortrait/13.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/BridePortrait/14.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/BridePortrait/15.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/BridePortrait/16.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/BridePortrait/17.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/BridePortrait/18.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/BridePortrait/19.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/BridePortrait/20.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/BridePortrait/21.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/BridePortrait/22.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/BridePortrait/23.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/BridePortrait/24.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/BridePortrait/25.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/BridePortrait/26.jpg"
+    }
+   
+  
+    ],
+    "success":1
+}
+

@@ -1,0 +1,62 @@
+
+{
+    "items":[{
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/Jeweller&Accessories/1.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/Jeweller&Accessories/2.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/Jeweller&Accessories/3.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/Jeweller&Accessories/4.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/Jeweller&Accessories/5.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/Jeweller&Accessories/6.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/Jeweller&Accessories/7.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/Jeweller&Accessories/8.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/Jeweller&Accessories/9.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/Jeweller&Accessories/10.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/Jeweller&Accessories/11.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/Jeweller&Accessories/12.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/Jeweller&Accessories/13.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/Jeweller&Accessories/14.JPG"
+    }
+    
+    ],
+    "success":1
+}
+

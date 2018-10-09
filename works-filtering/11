@@ -1,0 +1,230 @@
+
+{
+    "items":[ {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/CandidMoments/1.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/CandidMoments/2.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/CandidMoments/3.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/CandidMoments/04.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/CandidMoments/4.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/CandidMoments/5.jpg"
+    }
+     ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/CandidMoments/6.jpg"
+    },
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/CandidMoments/7.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/CandidMoments/8.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/CandidMoments/9.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/CandidMoments/10.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/CandidMoments/11.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/CandidMoments/12.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/CandidMoments/13.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/CandidMoments/14.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/CandidMoments/16.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/CandidMoments/18.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/CandidMoments/19.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/CandidMoments/22.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/CandidMoments/24.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/CandidMoments/25.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/CandidMoments/26.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/CandidMoments/27.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/CandidMoments/28.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/CandidMoments/29.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/CandidMoments/30.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/CandidMoments/31.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/CandidMoments/34.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/CandidMoments/35.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/CandidMoments/36.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/CandidMoments/37.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/CandidMoments/38.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/CandidMoments/39.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/CandidMoments/40.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/CandidMoments/41.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/CandidMoments/42.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/CandidMoments/43.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/CandidMoments/44.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/CandidMoments/45.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/CandidMoments/46.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/CandidMoments/48.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/CandidMoments/49.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/CandidMoments/50.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/CandidMoments/51.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/CandidMoments/52.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/CandidMoments/53.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/CandidMoments/54.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/CandidMoments/55.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/CandidMoments/56.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/CandidMoments/57.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/CandidMoments/58.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/CandidMoments/59.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#32584e", "visual": "../public/img/photography/CandidMoments/61.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/CandidMoments/62.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/CandidMoments/63.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#496701", "visual": "../public/img/photography/CandidMoments/64.JPG"
+    }
+   
+    
+    ],
+    "success":1
+}
+

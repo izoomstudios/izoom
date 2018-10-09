@@ -1,0 +1,27 @@
+
+{
+    "items":[ {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/GroomPortrait/1.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/GroomPortrait/2.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#805a41", "visual": "../public/img/photography/GroomPortrait/3.jpg"
+    }
+    ,
+    {
+        "link": "#", "color": "#35787c", "visual": "../public/img/photography/GroomPortrait/4.JPG"
+    }
+    ,
+    {
+        "link": "#", "color": "#7a1f5c", "visual": "../public/img/photography/GroomPortrait/5.jpg"
+    }
+   	
+    
+    ],
+    "success":1
+}
+
